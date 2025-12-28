@@ -24,7 +24,7 @@ const Home = () => {
     <div className="relative min-h-screen bg-[#121212] text-white overflow-hidden">
       <div className="relative z-10 p-6 sm:p-8">
         <h3 className="animate-tubeFlicker font-retro text-4xl md:text-5xl font-semibold text-[#BBBBBB] tracking-widest text-center mb-6">
-          TV Reference Explorer
+          Plot Links!
         </h3>
 
         {/* ✨ Funny Quote */}
@@ -46,11 +46,11 @@ const Home = () => {
 <div className="text-center text-[#aaa] mb-8 max-w-3xl mx-auto">
   <h4 className="text-lg font-semibold text-[#BBBBBB] mb-2">What is this?</h4>
   <p className="text-sm">
-    Ever watched a show and thought, “Hey, that line sounds familiar”? TV Reference Explorer helps you find out where it came from.
-    It scans shows like <em>Friends</em>, <em>The Office</em>, and more to spot when they mention or quote other shows or movies — like a pop culture detective. 
+    Ever watched a show and thought, “Hey, that line sounds familiar”? Plot Link helps you find out where it came from.
+    It scans shows like <em>Friends</em>, <em>The Office</em>, and more to spot when they mention or quote other shows or movies, like a pop culture detective. 
   </p>
   <p className="text-sm mt-2">
-    Click on a show below to explore who it references, and where it might’ve been referenced too. It's fun, a little nerdy, and still a work in progress — so expect a few surprises!
+    Click on a show below to explore who it references, and where it might’ve been referenced too.
   </p>
 </div>
 
@@ -78,10 +78,10 @@ const Home = () => {
         <div className="mt-8 text-center text-[#888] text-sm">
         <div className="mb-4">
   <h5 className="font-semibold text-[#BBBBBB] mb-1">
-    When I’m not obsessing over TV references, I’m building other weirdly useful websites like...
+    When I’m not obsessing over TV references and plot links, I’m building other weirdly useful websites like...
   </h5>
   <a
-    href="https://samay.onrender.com"
+    href="https://findsamay.com"
     target="_blank"
     rel="noopener noreferrer"
     className="text-[#aaa] hover:text-white transition block"
