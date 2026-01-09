@@ -87,7 +87,7 @@ const Home = () => {
     className="text-[#aaa] hover:text-white transition block"
   >
       <a
-    href="https://samay.onrender.com"
+    href="https://findsamay.com"
     target="_blank"
     rel="noopener noreferrer"
     className="text-blue-400 hover:underline transition"
